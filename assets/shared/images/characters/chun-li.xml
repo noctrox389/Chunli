@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="chun-li.png">
+<SubTexture name="chun li idle0000" x="238" y="192" width="48" height="79" frameX="-5" frameY="-5" frameWidth="55" frameHeight="82" />
+<SubTexture name="chun li idle0001" x="190" y="192" width="48" height="80" frameX="-5" frameY="-4" frameWidth="55" frameHeight="82" />
+<SubTexture name="chun li idle0002" x="92" y="192" width="48" height="81" frameX="-5" frameY="-3" frameWidth="55" frameHeight="82" />
+<SubTexture name="chun li idle0003" x="190" y="192" width="48" height="80" frameX="-5" frameY="-4" frameWidth="55" frameHeight="82" />
+<SubTexture name="chun li singLEFT0000" x="286" y="192" width="51" height="78" frameX="-2" frameY="-6" frameWidth="55" frameHeight="82" />
+<SubTexture name="chun li singUP0000" x="145" y="0" width="46" height="99" frameX="-8" frameY="-16" frameWidth="53" frameHeight="113" />
+<SubTexture name="chun li singUP0001" x="140" y="192" width="50" height="81" frameX="-4" frameY="-34" frameWidth="53" frameHeight="113" />
+<SubTexture name="chun li singUP0002" x="0" y="0" width="49" height="101" frameX="-6" frameY="-14" frameWidth="53" frameHeight="113" />
+<SubTexture name="chun li singUP0003" x="49" y="0" width="48" height="101" frameX="-6" frameY="-14" frameWidth="53" frameHeight="113" />
+<SubTexture name="chun li singUP0004" x="97" y="0" width="48" height="101" frameX="-6" frameY="-14" frameWidth="53" frameHeight="113" />
+<SubTexture name="chun li singUP0005" x="75" y="101" width="43" height="89" frameX="-11" frameY="-26" frameWidth="53" frameHeight="113" />
+<SubTexture name="chun li singDOWN0000" x="0" y="279" width="48" height="68" frameX="-4" frameY="-1" frameWidth="54" frameHeight="68" />
+<SubTexture name="chun li singDOWN0001" x="48" y="279" width="48" height="62" frameX="-3" frameY="-7" frameWidth="54" frameHeight="68" />
+<SubTexture name="chun li singRIGHT0000" x="0" y="101" width="75" height="91" frameX="0" frameY="-32" frameWidth="90" frameHeight="122" />
+<SubTexture name="chun li singRIGHT0001" x="191" y="0" width="83" height="93" frameX="0" frameY="-30" frameWidth="90" frameHeight="122" />
+<SubTexture name="chun li singRIGHT0002" x="118" y="101" width="81" height="87" frameX="0" frameY="-36" frameWidth="90" frameHeight="122" />
+<SubTexture name="chun li singRIGHT0003" x="274" y="0" width="90" height="87" frameX="0" frameY="-36" frameWidth="90" frameHeight="122" />
+<SubTexture name="chun li singRIGHT0004" x="274" y="87" width="84" height="85" frameX="0" frameY="-38" frameWidth="90" frameHeight="122" />
+<SubTexture name="chun li singRIGHT0005" x="0" y="192" width="92" height="87" frameX="0" frameY="-36" frameWidth="90" frameHeight="122" />
+<SubTexture name="chun li singRIGHT0006" x="199" y="101" width="72" height="85" frameX="0" frameY="-38" frameWidth="90" frameHeight="122" />
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "chun li singLEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 7,
+			"anim": "idle",
+			"indices": [],
+			"name": "chun li idle"
+		},
+		{
+			"offsets": [
+				-12,
+				-90
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "chun li singDOWN"
+		},
+		{
+			"offsets": [
+				-30,
+				234
+			],
+			"loop": true,
+			"fps": 40,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "chun li singRIGHT"
+		},
+		{
+			"offsets": [
+				12,
+				186
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP",
+			"indices": [],
+			"name": "chun li singUP"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/chun-li",
+	"position": [
+		150,
+		340
+	],
+	"healthicon": "chun-li",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		170,
+		111
+	],
+	"camera_position": [
+		-240,
+		-180
+	],
+	"sing_duration": 6.99999999999999,
+	"scale": 6
+}
